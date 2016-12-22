@@ -7,11 +7,16 @@ import com.spk.service.ProxyServiceImpl;
 public class ServiceProxy implements ProxyService {
     ProxyService service ;
     public ServiceProxy() {
-        service = new ProxyServiceImpl()
+        service = new ProxyServiceImpl();
     }
 
     @Override
     public String doSome() {
         return service.doSome().toUpperCase();
+    }
+
+    @Override
+    public String doOther() {
+        return null;
     }
 }

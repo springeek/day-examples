@@ -6,4 +6,9 @@ public class ProxyServiceImpl implements ProxyService {
     public String doSome() {
         return "some";
     }
+
+    @Override
+    public String doOther() {
+        return null;
+    }
 }

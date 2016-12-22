@@ -3,5 +3,6 @@ package com.spk.service;
 
 public interface ProxyService {
     String doSome() ;
+    String doOther() ;
 
 }
