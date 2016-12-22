@@ -1,5 +1,5 @@
 /*12/22/16 6:03 PM*/
-package com.spk.service;
+package com.spk.reflect;
 
 public class ProxyServiceImpl implements ProxyService {
     @Override

@@ -1,6 +1,9 @@
 /*12/22/16 6:06 PM*/
-package com.spk.service;
+package com.spk.reflect;
 
+import com.spk.reflect.ProxyService;
+import com.spk.reflect.ProxyServiceImpl;
+import com.spk.reflect.ServiceProxy;
 import org.junit.Test;
 
 import java.lang.reflect.Proxy;
