@@ -1,11 +1,8 @@
 /*12/22/16 6:06 PM*/
 package com.spk.service;
 
-import com.spk.proxy.ServiceProxy;
 import org.junit.Test;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 

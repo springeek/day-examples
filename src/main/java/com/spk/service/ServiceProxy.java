@@ -1,5 +1,5 @@
 /*12/22/16 6:17 PM*/
-package com.spk.proxy;
+package com.spk.service;
 
 import com.spk.service.ProxyService;
 import com.spk.service.ProxyServiceImpl;
